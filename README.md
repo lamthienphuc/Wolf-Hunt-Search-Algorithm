@@ -2,7 +2,7 @@
 The Wolf Hunt Search Algorithm (WHSA) stands as a fascinating testament to the ingenuity of applying natural phenomena to solve complex human problems, particularly in the realm of computational optimization.
 
 # Wolf packs Hunting scene
-https://youtu.be/OgE2sRFd4gs?si=od-h9i83HWak452I
+https://youtu.be/OgE2sRFd4gs?si=od-h9i83HWak452I (Start from 06:42 - Wolf Pack Hunts A Hare)
 
 Inspired by the intricate social structure and cooperative hunting strategies of wolves in the wild, WHSA translates these behaviors into a computational framework that tackles optimization tasks with remarkable efficiency and adaptability. This essay explores the foundational principles of WHSA, its operational mechanisms, applications, strengths, and potential areas for future exploration.
 
