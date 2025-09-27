@@ -6,8 +6,9 @@ https://youtu.be/OgE2sRFd4gs?si=od-h9i83HWak452I (Start from 06:42 - Wolf Pack H
 
 Inspired by the intricate social structure and cooperative hunting strategies of wolves in the wild, WHSA translates these behaviors into a computational framework that tackles optimization tasks with remarkable efficiency and adaptability. This essay explores the foundational principles of WHSA, its operational mechanisms, applications, strengths, and potential areas for future exploration.
 
-!["Wolf Hunting Strategy"](<img width="1006" height="764" alt="Screenshot 2024-03-18 161548" src="https://github.com/user-attachments/assets/582ef7c6-df9f-439b-9d67-0900cf2fa616" />
-)
+!["Wolf Hunting Strategy"]
+
+<img width="1006" height="764" alt="Screenshot 2024-03-18 161548" src="https://github.com/user-attachments/assets/582ef7c6-df9f-439b-9d67-0900cf2fa616" />
 
 # Operational Mechanisms of WHSA
 The operational framework of WHSA is grounded in the simulation of wolf pack dynamics, where individual wolves (agents) search through a multidimensional space to locate the optimal solution (prey). The algorithm is initiated with a population of wolves randomly scattered in the search space. These agents then move towards the best solution based on their social hierarchy, including alpha (the leader), beta (the second in command), and omega (the lowest-ranking wolves).
