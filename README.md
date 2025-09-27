@@ -9,7 +9,8 @@ Inspired by the intricate social structure and cooperative hunting strategies of
 !["Wolf Hunting Strategy"](https://github.com/lamthienphuc/Wolf-Hunt-Search-Algorithm/blob/main/Screenshot%202024-03-18%20160046.png)
 
 # Operational Mechanisms of WHSA
-The operational framework of WHSA is grounded in the simulation of wolf pack dynamics, where individual wolves (agents) search through a multidimensional space to locate the optimal solution (prey). The algorithm is initiated with a population of wolves randomly scattered in the search space. These agents then move towards the best solution based on their social hierarchy, including alpha (the leader), beta (the second in command), and omega (the lowest-ranking wolves).
+The operational framework of WHSA is grounded in the simulation of wolf pack dynamics, where individual wolves (agents) search through a multidimensional space to locate the optimal solution (prey). The algorithm is initiated with a population of wolves randomly scattered in the search space. These agents then move towards the best solution based on their social hierarchy, including alpha (the leader), beta (the second in command), and omega (the lowest-ranking wolves).![z5127306115777_46fb6099e24684ae485cd8afb79c1e4f](https://github.com/user-attachments/assets/388a6f58-ee7d-4e77-baa9-17724ecb216e)
+
 
 # General outline:
 Initialize: Define the population size, search space boundaries, and fitness function.
